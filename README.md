@@ -9,7 +9,7 @@ Account services includes feedback mechanism, membership options with or without
 
 # License
 
-Account services includes feedback mechanism, membership options with or without paid and Pay option to but assets or services
+Account services includes feedback mechanism, membership options with or without paid and Pay option to buy assets or services
 
 Copyright (C) 2023 Masscollabs Services
 
