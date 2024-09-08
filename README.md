@@ -5,7 +5,7 @@ Account services includes feedback mechanism, membership options with or without
 * Planned Services
 	* Feedback
 	* Membership
-	* Pay
+	* Payments 
 
 # License
 
